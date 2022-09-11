@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 ---
 
@@ -15,7 +15,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Vuetify][Vuetify]
 ![Bootstrap][Bootstrap]
 ![Tailwindcss][Tailwindcss]
+![Axios][Axios]
 ![PhpStorm][PhpStorm]
+![Git][Git]
 
 ---
 
@@ -34,4 +36,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [Vuetify]: https://img.shields.io/badge/Vuetify-f2f2f2?style=for-the-badge&logo=vuetify&logoColor=158fe9
 [Bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Tailwindcss]: https://img.shields.io/badge/Tailwindcss-f2f2f2?style=for-the-badge&logo=tailwindcss&logoColor=06adc9
+[Axios]: https://img.shields.io/badge/Axios-black?style=for-the-badge&logo=Axios
 [PhpStorm]: https://img.shields.io/badge/PhpStorm-f2f2f2?style=for-the-badge&logo=PhpStorm&logoColor=black
+[Git]: https://img.shields.io/badge/Git-f2f2f2?style=for-the-badge&logo=Git&logoColor=e44d30
